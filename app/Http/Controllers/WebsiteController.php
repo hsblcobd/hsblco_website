@@ -29,6 +29,7 @@ class WebsiteController extends Controller
     public function Fontend_ContactUs()
     {
         return view('website.contact');
+        //return view
     }
 }
 
